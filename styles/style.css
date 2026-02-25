@@ -209,6 +209,7 @@ body {
 }
 
 .lots__look-more-link {
+  font-size: 20px;
   margin-left: 40px;
   border-bottom: 1px solid currentColor;
   padding-bottom: 1px;
