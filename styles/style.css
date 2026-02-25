@@ -271,11 +271,6 @@ body {
 }
 
 /* FOOTER */
-.footer__menu-link_active {
-  text-decoration: none;
-  border: none;
-}
-
 .footer {
   padding: 0 53px 82px 50px;
   margin-top: 180px;
