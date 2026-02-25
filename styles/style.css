@@ -176,7 +176,7 @@ body {
   transform: translate(-50%, -50%);
   width: unset;
   height: 100%;
-  filter: brightness(0.6);
+  /* filter: brightness(0.6); */
 }
 
 .card-link {
